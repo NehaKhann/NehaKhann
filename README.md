@@ -35,15 +35,10 @@ A hands-on series exploring modern web scraping through practical projects and r
 ---
 ---
 
-## 📊 GitHub Statistics
+## 📈 Contribution Graph
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NehaKhann&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaKhann&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NehaKhann&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NehaKhann&theme=github-dark&hide_border=true" />
 </p>
 
 ## Technical Expertise
