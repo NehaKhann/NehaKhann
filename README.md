@@ -1,12 +1,12 @@
 <h1 align="center">Neha Khan</h1>
 
 <p align="center">
-  <b>Software Engineer • Backend Developer • AI Engineering</b>
+<b>Software Engineer</b>
 </p>
 
 <p align="center">
-Building AI-powered applications, developer tools, and open-source software.<br>
-Documenting my journey from enterprise software engineering to AI through real-world projects.
+Building AI-powered applications, backend systems, and developer tools.<br>
+Documenting my transition from enterprise software engineering to AI through real-world projects, open source, and technical writing.
 </p>
 
 <p align="center">
@@ -16,18 +16,20 @@ Documenting my journey from enterprise software engineering to AI through real-w
   <a href="https://medium.com/@n.nehakhan333">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="mailto:n.nehakhan333@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://x.com/NehaKhanihc">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👋 About Me
+## 👋 About
 
-I'm a **Software Engineer** with **4+ years of experience** building enterprise applications across banking and product-based environments.
+I'm a Software Engineer with **4+ years of experience** building enterprise applications across banking and product-based environments.
 
-My background spans enterprise Java, backend engineering, REST APIs, databases, and modern full-stack development. Today, I'm focused on **AI Engineering**, building practical AI applications, developer tools, and open-source projects while sharing my learning through technical writing.
+My experience spans enterprise Java, backend engineering, REST APIs, databases, modern web development, and system modernization.
+
+Today, I'm focused on building practical AI applications, exploring LLM engineering, contributing to open source, and sharing everything I learn through technical writing.
 
 ---
 
@@ -35,94 +37,61 @@ My background spans enterprise Java, backend engineering, REST APIs, databases, 
 
 - 🤖 AI-powered applications & developer tools
 - 🧠 LLM Engineering Learning Journey
-- 🐍 Python Scraping Series
-- ✍️ Technical articles on AI & Backend Engineering
-- 🌱 Exploring RAG, AI Agents & modern AI workflows
+- 🐍 Python Scraping Series (14 Days)
+- ✍️ Technical articles on AI, Python & Backend Engineering
+- 🌱 Exploring RAG, AI Agents, MCP and modern AI workflows
 
 ---
 
-## ⭐ Featured Projects
+# ⭐ Featured Projects
 
 ### 🛡️ SpringGuard
 
 Open-source security auditing platform for Spring Boot applications with AI-assisted analysis.
 
-**Repositories**
+**Tech**
 
-- 🔹 springguard-backend
-- 🔹 springguard-frontend
+`Java` • `Spring Boot` • `React` • `REST APIs`
 
 ---
 
 ### 🧠 LLM Engineering Learning Journey
 
-A collection of projects, notes, and experiments documenting my journey into AI Engineering.
+A collection of projects, experiments and notes documenting my journey into AI Engineering.
 
 **Focus**
 
-- Large Language Models
-- RAG
-- AI Applications
-- Prompt Engineering
+`LLMs` • `Prompt Engineering` • `Python` • `RAG`
 
 ---
 
 ### 🐍 Python Scraping Series
 
-A public series exploring production-style web scraping using modern Python tools.
+A public 14-day series exploring production-style web scraping through real-world projects.
 
-**Topics**
+**Tech**
 
-- HTTP Clients
-- Scrapy
-- Browser Automation
-- Streamlit Dashboards
+`Python` • `Scrapy` • `httpx` • `curl_cffi` • `Streamlit`
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Engineering Toolbox
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,docker" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,redux,bootstrap" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,redux,python,javascript,typescript,mongodb,mysql,docker,git,github,idea,vscode,postman&perline=9"/>
 </p>
 
 ---
 
-## 📚 Currently Exploring
+## 📚 Exploring
 
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - AI Agents
-- AI Workflows
+- MCP (Model Context Protocol)
 - Prompt Engineering
-- MCP
 - Vector Databases
+- AI Application Architecture
 
 ---
 
@@ -134,25 +103,24 @@ A public series exploring production-style web scraping using modern Python tool
 
 ---
 
-## ✍️ Writing
+## ✍️ Latest Articles
 
-I enjoy documenting my learning through technical articles and project walkthroughs.
+📝 **Day 3:** Three Sites. All Blocked. Here's What I Actually Learned About Cloudflare.
 
-Recent topics include:
+📝 **Day 2:** How to Build a Book Price Tracker with Scrapy — And What Breaks Along the Way
 
-- Building a LinkedIn Job Scraper
-- Book Price Tracker with Scrapy
-- LLM Explainer Dashboard
-- curl_cffi
-- AI Engineering Journey
+📝 **Day 1:** How to Scrape LinkedIn Job Postings with Python — No Selenium Required
 
-More articles coming soon...
+📝 Claude Cowork Has Five Moving Parts. Most People Only Use One.
+
+➡️ Read more on **Medium**
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/neha-khann/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/>
 </a>
@@ -161,15 +129,16 @@ More articles coming soon...
 <img src="https://img.shields.io/badge/Medium-Read-black?style=flat-square&logo=medium"/>
 </a>
 
-<a href="mailto:n.nehakhan333@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"/>
+<a href="https://x.com/NehaKhanihc">
+<img src="https://img.shields.io/badge/X-Follow-black?style=flat-square&logo=x"/>
 </a>
+
 </p>
 
 ---
 
 <p align="center">
 
-### *Building practical software. Learning continuously. Sharing the journey.*
+### Building practical software • Learning continuously • Sharing the journey
 
 </p>
