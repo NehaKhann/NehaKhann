@@ -2,16 +2,11 @@
   <img src="./assets/banner.png" alt="Neha Khan Banner" width="100%" />
 </p>
 
-<h1 align="center">Neha Khan</h1>
+## 👋 Welcome
 
-<p align="center">
-<b>Software Engineer</b>
-</p>
+I'm a Software Engineer with 4+ years of experience building enterprise applications across banking and product-based environments.
 
-<p align="center">
-Building AI-powered applications, backend systems, and developer tools.<br>
-Documenting my transition from enterprise software engineering to AI through real-world projects, open source, and technical writing.
-</p>
+I'm currently expanding into AI engineering by building practical projects, contributing to open source, and documenting my learning through technical writing.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/neha-khann/">
