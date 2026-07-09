@@ -87,15 +87,14 @@ A public 14-day series exploring production-style web scraping through real-worl
 
 ---
 
-## 📚 Currently Exploring
+## 🎯 Focus Areas
 
+- AI Engineering
+- Backend Development
 - Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- MCP (Model Context Protocol)
-- Vector Databases
-- AI Application Architecture
-
+- Developer Tools
+- Open Source
+  
 ---
 
 ## 📈 GitHub Activity
