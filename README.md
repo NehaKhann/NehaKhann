@@ -49,33 +49,11 @@ I enjoy creating software that is reliable, maintainable, and solves real-world 
 
 ## ⭐ Featured Projects
 
-### 🛡️ SpringGuard
-
-AI-assisted security auditing platform for Spring Boot applications.
-
-**Tech**
-
-`Java` • `Spring Boot` • `React` • `REST APIs`
-
----
-
-### 🧠 LLM Engineering Learning Journey
-
-Projects, notes, and experiments documenting my journey into AI Engineering.
-
-**Focus**
-
-`LLMs` • `Prompt Engineering` • `RAG` • `Python`
-
----
-
-### 🐍 Python Scraping Series
-
-A public 14-day series exploring production-style web scraping through real-world projects.
-
-**Tech**
-
-`Python` • `Scrapy` • `httpx` • `curl_cffi` • `Streamlit`
+| Project | Description | Link |
+|---------|-------------|------|
+| 🛡️ **SpringGuard** | AI-assisted security auditing platform for Spring Boot applications | [Backend](https://github.com/NehaKhann/springguard-backend) • [Frontend](https://github.com/NehaKhann/springguard-frontend) |
+| 🧠 **LLM Engineering Learning Journey** | Hands-on AI engineering projects and notes | [Repository](https://github.com/NehaKhann/llm-engineering-learning-journey) |
+| 🐍 **Python Scraping Series** | 14-day web scraping series with articles and projects | [Repository](https://github.com/NehaKhann/python-scraping-series) |
 
 ---
 
