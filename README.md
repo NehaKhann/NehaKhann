@@ -20,7 +20,7 @@
 
 I'm a Software Engineer with **4+ years of experience** building enterprise applications across banking and product-based environments.
 
-Today, I'm focused on expanding into **AI Engineering** by building practical applications, contributing to open-source projects, and documenting my learning through technical writing.
+I'm transitioning from enterprise software engineering to AI engineering through hands-on projects, open-source contributions, and technical writing.
 
 I enjoy creating software that is reliable, maintainable, and solves real-world problems.
 
