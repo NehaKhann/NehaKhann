@@ -3,6 +3,9 @@
 </p>
 
 <p align="center">
+  <a href="https://neha-khan-portfolio-gamma.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/neha-khann/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -17,6 +20,8 @@
 ---
 
 ## 👋 About Me
+
+🌐 **Portfolio:** [neha-khan-portfolio-gamma.vercel.app](https://neha-khan-portfolio-gamma.vercel.app/)
 
 I'm a Software Engineer with **4+ years of experience** building enterprise applications across banking and product-based environments.
 
