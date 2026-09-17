@@ -84,7 +84,11 @@ Open to full-stack & AI engineering roles.
 ## 📈 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NehaKhann&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=NehaKhann&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://ghchart.rshah.org/NehaKhann" alt="Neha's GitHub contribution graph"/>
 </p>
 
 ---
