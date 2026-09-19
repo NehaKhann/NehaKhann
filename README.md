@@ -84,11 +84,11 @@ Open to full-stack & AI engineering roles.
 ## 📈 GitHub Activity
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=NehaKhann&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=NehaKhann&theme=github-dark&hide_border=true&v=2"/>
 </p>
 
 <p align="center">
-<img src="https://ghchart.rshah.org/NehaKhann" alt="Neha's GitHub contribution graph"/>
+<img src="https://ghchart.rshah.org/NehaKhann?v=2" alt="Neha's GitHub contribution graph"/>
 </p>
 
 ---
